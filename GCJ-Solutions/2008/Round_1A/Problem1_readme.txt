@@ -1,0 +1,1 @@
+problem 1: "Minimum scalar product" in "Practice Problems" directory
